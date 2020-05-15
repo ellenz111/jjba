@@ -4,7 +4,7 @@ if not internet then
 end
 
 local mirrors = {
-  'https://raw.githubusercontent.com/DOOBW/geominer/master/miner.lua',
+  'https://raw.githubusercontent.com/ellenz111/jjba/master/miner.lua',
 }
 
 for i = 1, #mirrors do

@@ -1,6 +1,6 @@
 --local component = require('component') -- подгрузить обертку из OpenOS
 --local computer = require('computer')
-local chunks = 9 -- количество чанков для добычи
+local chunks = 20 -- количество чанков для добычи
 local min, max = 2.2, 40 -- минимальная и максимальная плотность
 local port = 1 -- порт для взаимодействия с роботом
 local X, Y, Z, D, border = 0, 0, 0, 0 -- переменные локальной системы координат
